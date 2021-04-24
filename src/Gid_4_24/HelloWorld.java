@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("Yay stuffs are on in");
         System.out.println("too fast");
         System.out.println("Very interesting? what do yuo think?");
+        System.out.println("what do you think about this?");
     }
 }
