@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Adding GitHub Now");
         System.out.println("Yay stuffs are on in");
         System.out.println("too fast");
+        System.out.println("Very interesting? what do yuo think?");
     }
 }
